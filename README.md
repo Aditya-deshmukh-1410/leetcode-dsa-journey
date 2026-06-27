@@ -21,10 +21,12 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0075-sort-colors) |
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0344-reverse-string) |
@@ -37,4 +39,8 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | ------- |
 | [0125-valid-palindrome](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0344-reverse-string) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
