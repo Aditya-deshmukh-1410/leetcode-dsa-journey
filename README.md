@@ -25,6 +25,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0042-trapping-rain-water](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0075-sort-colors) |
 | [0485-max-consecutive-ones](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0485-max-consecutive-ones) |
+| [1004-max-consecutive-ones-iii](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
@@ -68,9 +69,18 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 ## Sliding Window
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0013-roman-to-integer) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
