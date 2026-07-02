@@ -7,20 +7,19 @@ class Solution {
 
         int n =  nums.length;
         int count = 0;
+        int product = 1;
+        int i = 0;
         
-        for(int i=0; i<n; i++){
-            int product = 1;
-            for(int j = i ; j>=0; j--){
-                product *= nums[j];
+        for(int j=0; j<n; j++){
+            product *= nums[j];
 
-                if(product < k){
-                    count++;
-                }else{
-                    break;
-                }
+            while(product >= k){
+                product = product / nums[i];
+                i++;
             }
+
+            count += (j-i+1);
         }
-        return count;
-        
+        return count;   
     }
 }
