@@ -23,6 +23,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0042-trapping-rain-water) |
+| [0066-plus-one](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0075-sort-colors) |
 | [0485-max-consecutive-ones](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0485-max-consecutive-ones) |
 | [0713-subarray-product-less-than-k](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0713-subarray-product-less-than-k) |
@@ -77,6 +78,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0066-plus-one) |
 ## Binary Search
 |  |
 | ------- |
