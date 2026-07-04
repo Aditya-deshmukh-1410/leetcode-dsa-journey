@@ -27,6 +27,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0075-sort-colors](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0075-sort-colors) |
 | [0485-max-consecutive-ones](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0485-max-consecutive-ones) |
 | [0713-subarray-product-less-than-k](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
@@ -67,11 +68,13 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0013-roman-to-integer) |
+| [0904-fruit-into-baskets](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
