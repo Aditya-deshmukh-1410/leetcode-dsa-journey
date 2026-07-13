@@ -26,6 +26,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0053-maximum-subarray](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0075-sort-colors) |
+| [0152-maximum-product-subarray](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0239-sliding-window-maximum) |
@@ -66,6 +67,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0152-maximum-product-subarray) |
 ## Stack
 |  |
 | ------- |
