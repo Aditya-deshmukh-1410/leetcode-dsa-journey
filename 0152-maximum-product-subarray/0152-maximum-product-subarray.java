@@ -2,16 +2,21 @@ class Solution {
     public int maxProduct(int[] nums) {
 
         int n = nums.length;
-        int maxProd = -10;
 
-        for(int i=0; i<n; i++){
-            int prod = 1;
-            for(int j = i; j<n; j++){
-                prod *= nums[j];
+        int prefix = 1;
+        int suffix = 1;
+        int ans = Integer.MIN_VALUE;
 
-                maxProd = Math.max(maxProd,prod);
-            }
+        for(int i =0; i<n; i++){
+
+            if(prefix == 0) prefix = 1;
+            if(suffix == 0) suffix = 1;
+
+            prefix *= nums[i];
+            suffix *= nums[n-1-i];
+
+            ans = Math.max(ans,Math.max(prefix,suffix));
         }
-        return maxProd;
+        return ans;
     }
 }
