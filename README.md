@@ -106,11 +106,13 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0013-roman-to-integer](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0258-add-digits) |
+| [0367-valid-perfect-square](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0367-valid-perfect-square) |
 | [0523-continuous-subarray-sum](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0523-continuous-subarray-sum) |
 ## Binary Search
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0209-minimum-size-subarray-sum) |
+| [0367-valid-perfect-square](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0367-valid-perfect-square) |
 | [0713-subarray-product-less-than-k](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
