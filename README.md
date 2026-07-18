@@ -60,6 +60,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0344-reverse-string) |
@@ -89,6 +90,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0013-roman-to-integer) |
 | [0523-continuous-subarray-sum](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0560-subarray-sum-equals-k) |
@@ -109,6 +111,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0258-add-digits) |
