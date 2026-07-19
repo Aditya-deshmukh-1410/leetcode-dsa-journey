@@ -1,30 +1,24 @@
 class Solution {
-
     public int countSubstrings(String s) {
+        
+        int n = s.length();
         int count = 0;
 
-        for(int i = 0; i< s.length(); i++){
-            String substr = "";
-            for(int j = i; j<s.length(); j++){
-                substr+= s.charAt(j);
-                
-                if(isPalin(substr,0,substr.length()-1)){
-                    count++;
-                }
-            }
+        for(int i=0; i<n; i++){
+            count += expand(s,i,i);
+            count += expand(s,i,i+1);
         }
         return count;
     }
 
-    private boolean isPalin(String str , int left , int right){
+    private int expand(String s , int left, int right){
+        int count = 0;
 
-        while(left < right){
-            if(str.charAt(left) != str.charAt(right)){
-                return false;
-            }
-            left++;
-            right--;
+        while(left >= 0 && right < s.length() && s.charAt(left) == s.charAt(right)){
+            count++;
+            left--;
+            right++;
         }
-        return true;
+        return count;
     }
 }
