@@ -63,6 +63,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0005-longest-palindromic-substring](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -86,6 +87,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
