@@ -177,9 +177,14 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0191-number-of-1-bits) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0918-maximum-sum-circular-subarray) |
 ## Recursion
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0326-power-of-three) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
