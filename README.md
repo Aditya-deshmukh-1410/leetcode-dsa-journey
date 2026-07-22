@@ -30,6 +30,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0209-minimum-size-subarray-sum](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0239-sliding-window-maximum) |
+| [0349-intersection-of-two-arrays](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0560-subarray-sum-equals-k) |
@@ -51,6 +52,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0075-sort-colors](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0680-valid-palindrome-ii) |
@@ -58,6 +60,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0075-sort-colors) |
+| [0349-intersection-of-two-arrays](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -102,6 +105,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0013-roman-to-integer) |
+| [0349-intersection-of-two-arrays](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0560-subarray-sum-equals-k) |
@@ -137,6 +141,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0209-minimum-size-subarray-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0367-valid-perfect-square) |
 | [0713-subarray-product-less-than-k](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/1004-max-consecutive-ones-iii) |
