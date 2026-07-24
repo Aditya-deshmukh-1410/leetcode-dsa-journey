@@ -139,6 +139,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0012-integer-to-roman](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0367-valid-perfect-square) |
@@ -146,6 +147,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0367-valid-perfect-square) |
