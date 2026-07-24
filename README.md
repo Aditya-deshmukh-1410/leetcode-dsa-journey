@@ -34,6 +34,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0485-max-consecutive-ones](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0904-fruit-into-baskets) |
@@ -148,6 +149,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0209-minimum-size-subarray-sum](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0367-valid-perfect-square) |
+| [0704-binary-search](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
