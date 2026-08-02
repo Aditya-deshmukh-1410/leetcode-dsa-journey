@@ -150,6 +150,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0029-divide-two-integers](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0367-valid-perfect-square) |
@@ -217,10 +218,12 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0326-power-of-three) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0029-divide-two-integers) |
 | [0191-number-of-1-bits](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
