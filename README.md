@@ -22,6 +22,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0035-search-insert-position) |
@@ -76,6 +77,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0006-zigzag-conversion](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0125-valid-palindrome) |
@@ -226,4 +228,8 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0029-divide-two-integers](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0029-divide-two-integers) |
 | [0191-number-of-1-bits](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0231-power-of-two) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
