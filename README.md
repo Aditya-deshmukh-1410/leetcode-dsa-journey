@@ -79,6 +79,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0013-roman-to-integer](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0043-multiply-strings) |
 | [0076-minimum-window-substring](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0205-isomorphic-strings) |
@@ -150,6 +151,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0012-integer-to-roman](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0231-power-of-two) |
@@ -206,6 +208,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0258-add-digits) |
 ## Number Theory
 |  |
