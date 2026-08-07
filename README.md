@@ -51,6 +51,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [1004-max-consecutive-ones-iii](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/1552-magnetic-force-between-two-balls) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -72,6 +73,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | ------- |
 | [0075-sort-colors](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0349-intersection-of-two-arrays) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/1552-magnetic-force-between-two-balls) |
 ## String
 |  |
 | ------- |
@@ -181,6 +183,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [1004-max-consecutive-ones-iii](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/1552-magnetic-force-between-two-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/1870-minimum-speed-to-arrive-on-time) |
 ## Prefix Sum
 |  |
