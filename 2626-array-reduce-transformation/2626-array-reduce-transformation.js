@@ -12,4 +12,4 @@ var reduce = function(nums, fn, init) {
     }
 
     return acc;
-}
+};
