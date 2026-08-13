@@ -4,17 +4,17 @@ class Solution {
         int m = matrix.length;
         int n = matrix[0].length;
 
-        int row = 0;
-        int col = n - 1;
+        int row = m - 1;
+        int col = 0;
 
-        while(row<m && col>=0){
+        while(row >= 0 && col < n){
 
             if(target == matrix[row][col]){
                 return true;
             }else if(target < matrix[row][col]){
-                col = col - 1;
+                row = row - 1;
             }else{
-                row = row + 1;
+                col = col + 1;
             }
         }
         return false;
