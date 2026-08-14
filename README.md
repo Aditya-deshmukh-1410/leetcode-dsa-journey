@@ -41,6 +41,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0349-intersection-of-two-arrays](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0704-binary-search) |
@@ -120,10 +121,12 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -134,6 +137,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0205-isomorphic-strings](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0567-permutation-in-string) |
