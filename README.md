@@ -48,6 +48,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0704-binary-search](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0918-maximum-sum-circular-subarray) |
@@ -124,6 +125,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0042-trapping-rain-water](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -237,6 +239,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | ------- |
 | [0043-multiply-strings](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0258-add-digits) |
+| [0735-asteroid-collision](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0735-asteroid-collision) |
 ## Number Theory
 |  |
 | ------- |
