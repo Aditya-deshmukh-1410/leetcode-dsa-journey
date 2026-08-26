@@ -34,6 +34,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0075-sort-colors](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0085-maximal-rectangle) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0162-find-peak-element) |
@@ -132,6 +133,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0042-trapping-rain-water](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0085-maximal-rectangle) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0227-basic-calculator-ii) |
 | [0496-next-greater-element-i](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0503-next-greater-element-ii) |
@@ -187,6 +189,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0043-multiply-strings](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0258-add-digits) |
