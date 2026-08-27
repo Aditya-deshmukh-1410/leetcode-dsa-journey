@@ -102,6 +102,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0205-isomorphic-strings](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0205-isomorphic-strings) |
 | [0227-basic-calculator-ii](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0227-basic-calculator-ii) |
 | [0344-reverse-string](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0647-palindromic-substrings) |
@@ -135,6 +136,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0085-maximal-rectangle](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0227-basic-calculator-ii) |
+| [0394-decode-string](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0735-asteroid-collision) |
@@ -272,6 +274,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | ------- |
 | [0231-power-of-two](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0326-power-of-three) |
+| [0394-decode-string](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0394-decode-string) |
 ## Bit Manipulation
 |  |
 | ------- |
