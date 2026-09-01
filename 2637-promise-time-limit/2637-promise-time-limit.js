@@ -16,4 +16,4 @@ var timeLimit = function(fn, t) {
             timeout
         ]);
     };
-}
+};
