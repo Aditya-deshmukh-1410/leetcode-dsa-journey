@@ -197,6 +197,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0013-roman-to-integer](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0043-multiply-strings) |
+| [0060-permutation-sequence](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0069-sqrtx) |
@@ -285,6 +286,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 ## Recursion
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0394-decode-string) |
