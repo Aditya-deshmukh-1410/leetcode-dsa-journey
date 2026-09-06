@@ -204,6 +204,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0070-climbing-stairs](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0223-rectangle-area) |
 | [0227-basic-calculator-ii](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0258-add-digits) |
@@ -355,4 +356,8 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0204-count-primes) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
