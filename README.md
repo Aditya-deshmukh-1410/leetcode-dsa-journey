@@ -128,6 +128,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0005-longest-palindromic-substring](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0085-maximal-rectangle) |
 | [0152-maximum-product-subarray](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0152-maximum-product-subarray) |
@@ -199,6 +200,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0043-multiply-strings](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0069-sqrtx) |
@@ -362,4 +364,8 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0223-rectangle-area) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
