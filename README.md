@@ -28,6 +28,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0074-search-a-2d-matrix) |
@@ -86,6 +87,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0349-intersection-of-two-arrays) |
@@ -102,6 +104,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0020-valid-parentheses](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0076-minimum-window-substring) |
@@ -165,6 +168,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0349-intersection-of-two-arrays) |
