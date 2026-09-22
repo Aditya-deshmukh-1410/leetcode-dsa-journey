@@ -137,6 +137,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0070-climbing-stairs](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0085-maximal-rectangle) |
 | [0152-maximum-product-subarray](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0152-maximum-product-subarray) |
+| [0279-perfect-squares](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0279-perfect-squares) |
 | [0410-split-array-largest-sum](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0410-split-array-largest-sum) |
 | [0647-palindromic-substrings](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0647-palindromic-substrings) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0918-maximum-sum-circular-subarray) |
@@ -219,6 +220,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0231-power-of-two](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0263-ugly-number) |
+| [0279-perfect-squares](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0367-valid-perfect-square) |
 | [0523-continuous-subarray-sum](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0523-continuous-subarray-sum) |
@@ -380,4 +382,16 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0032-longest-valid-parentheses) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0279-perfect-squares) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
