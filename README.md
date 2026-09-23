@@ -36,6 +36,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0084-largest-rectangle-in-histogram](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0118-pascals-triangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -136,6 +137,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0062-unique-paths](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0085-maximal-rectangle) |
+| [0118-pascals-triangle](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0152-maximum-product-subarray) |
 | [0279-perfect-squares](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0279-perfect-squares) |
 | [0410-split-array-largest-sum](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0410-split-array-largest-sum) |
