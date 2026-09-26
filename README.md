@@ -53,6 +53,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0503-next-greater-element-ii](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0560-subarray-sum-equals-k) |
+| [0622-design-circular-queue](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0724-find-pivot-index) |
@@ -269,6 +270,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0622-design-circular-queue) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0918-maximum-sum-circular-subarray) |
 ## Heap (Priority Queue)
 |  |
@@ -331,6 +333,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 ## Design
 |  |
 | ------- |
+| [0622-design-circular-queue](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0622-design-circular-queue) |
 | [0901-online-stock-span](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
@@ -400,4 +403,8 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0279-perfect-squares) |
+## Linked List
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
