@@ -92,6 +92,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0049-group-anagrams](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0349-intersection-of-two-arrays) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/1552-magnetic-force-between-two-balls) |
 ## String
@@ -115,6 +116,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0166-fraction-to-recurring-decimal](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0205-isomorphic-strings) |
 | [0227-basic-calculator-ii](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0227-basic-calculator-ii) |
+| [0242-valid-anagram](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0394-decode-string) |
@@ -181,6 +183,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0076-minimum-window-substring](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0076-minimum-window-substring) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0438-find-all-anagrams-in-a-string) |
