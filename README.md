@@ -105,6 +105,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0013-roman-to-integer](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0043-multiply-strings) |
@@ -136,6 +137,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0053-maximum-subarray) |
@@ -396,6 +398,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0032-longest-valid-parentheses) |
 ## Breadth-First Search
 |  |
@@ -413,4 +416,8 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0622-design-circular-queue) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
