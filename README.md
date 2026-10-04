@@ -86,6 +86,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0567-permutation-in-string](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0844-backspace-string-compare) |
 ## Sorting
 |  |
 | ------- |
@@ -125,6 +126,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0567-permutation-in-string](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0844-backspace-string-compare) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
 |  |
@@ -165,6 +167,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0496-next-greater-element-i](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -301,6 +304,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0067-add-binary](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0844-backspace-string-compare) |
 ## Number Theory
 |  |
 | ------- |
