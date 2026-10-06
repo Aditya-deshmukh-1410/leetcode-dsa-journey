@@ -240,6 +240,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0263-ugly-number](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0326-power-of-three) |
+| [0365-water-and-jug-problem](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0367-valid-perfect-square) |
 | [0523-continuous-subarray-sum](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0523-continuous-subarray-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -410,6 +411,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0279-perfect-squares) |
+| [0365-water-and-jug-problem](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0365-water-and-jug-problem) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -426,4 +428,24 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0022-generate-parentheses) |
+## Depth-First Search
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0365-water-and-jug-problem) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0365-water-and-jug-problem) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0365-water-and-jug-problem) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0365-water-and-jug-problem) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->
