@@ -46,6 +46,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0238-product-of-array-except-self](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0240-search-a-2d-matrix-ii) |
+| [0336-palindrome-pairs](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0485-max-consecutive-ones) |
@@ -119,6 +120,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0205-isomorphic-strings](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0205-isomorphic-strings) |
 | [0227-basic-calculator-ii](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0242-valid-anagram) |
+| [0336-palindrome-pairs](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0336-palindrome-pairs) |
 | [0344-reverse-string](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0394-decode-string) |
@@ -191,6 +193,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0166-fraction-to-recurring-decimal](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0242-valid-anagram) |
+| [0336-palindrome-pairs](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -339,6 +342,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0014-longest-common-prefix) |
+| [0336-palindrome-pairs](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0336-palindrome-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -448,4 +452,8 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0365-water-and-jug-problem) |
+## Hash Function
+|  |
+| ------- |
+| [0336-palindrome-pairs](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0336-palindrome-pairs) |
 <!---LeetCode Topics End-->
