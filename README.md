@@ -129,6 +129,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0647-palindromic-substrings](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/1544-make-the-string-great) |
@@ -175,6 +176,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0503-next-greater-element-ii](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -420,6 +422,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0020-valid-parentheses](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Breadth-First Search
 |  |
