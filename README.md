@@ -171,6 +171,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0085-maximal-rectangle](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0394-decode-string) |
@@ -296,6 +297,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0387-first-unique-character-in-a-string) |
@@ -366,6 +368,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0622-design-circular-queue) |
 | [0901-online-stock-span](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0901-online-stock-span) |
