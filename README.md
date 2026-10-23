@@ -41,6 +41,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0152-maximum-product-subarray](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0162-find-peak-element) |
+| [0179-largest-number](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0238-product-of-array-except-self) |
@@ -95,6 +96,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0049-group-anagrams](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0088-merge-sorted-array) |
+| [0179-largest-number](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0349-intersection-of-two-arrays) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/1552-magnetic-force-between-two-balls) |
@@ -118,6 +120,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0076-minimum-window-substring](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0125-valid-palindrome) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0166-fraction-to-recurring-decimal) |
+| [0179-largest-number](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0205-isomorphic-strings) |
 | [0227-basic-calculator-ii](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0242-valid-anagram) |
@@ -141,6 +144,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0011-container-with-most-water) |
+| [0179-largest-number](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0680-valid-palindrome-ii) |
