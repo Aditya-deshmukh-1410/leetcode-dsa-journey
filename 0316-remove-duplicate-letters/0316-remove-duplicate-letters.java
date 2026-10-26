@@ -1,34 +1,34 @@
 class Solution {
     public String removeDuplicateLetters(String s) {
-        int[] freq = new int[26];
-        boolean[] visited = new boolean[26];
 
-        for (char c : s.toCharArray()) {
-            freq[c - 'a']++;
+        int[] lastIndex = new int[26];
+        boolean[] isVisited = new boolean[26];
+
+        for(int i= 0 ;i<s.length(); i++){
+            lastIndex[s.charAt(i) - 'a'] = i;
         }
 
         StringBuilder stack = new StringBuilder();
 
-        for (char c : s.toCharArray()) {
-            freq[c - 'a']--;
+        for(int i = 0; i<s.length(); i++){
+            char ch = s.charAt(i);
 
-            if (visited[c - 'a']) {
+            if(isVisited[ch - 'a']){
                 continue;
             }
 
-            while (stack.length() > 0 &&
-                   stack.charAt(stack.length() - 1) > c &&
-                   freq[stack.charAt(stack.length() - 1) - 'a'] > 0) {
+            while(!stack.isEmpty()
+                  && stack.charAt(stack.length()-1) > ch
+                  && lastIndex[stack.charAt(stack.length()-1) - 'a'] > i){
 
-                char removed = stack.charAt(stack.length() - 1);
-                stack.deleteCharAt(stack.length() - 1);
-                visited[removed - 'a'] = false;
-            }
+                    isVisited[stack.charAt(stack.length() - 1) - 'a'] = false;
+                    stack.deleteCharAt(stack.length()-1);
 
-            stack.append(c);
-            visited[c - 'a'] = true;
+                  }
+
+                  stack.append(ch);
+                  isVisited[ch-'a'] = true;
         }
-
         return stack.toString();
     }
 }
