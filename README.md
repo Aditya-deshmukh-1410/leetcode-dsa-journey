@@ -47,6 +47,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0238-product-of-array-except-self](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0240-search-a-2d-matrix-ii) |
+| [0321-create-maximum-number](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0321-create-maximum-number) |
 | [0336-palindrome-pairs](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0410-split-array-largest-sum) |
@@ -84,6 +85,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0075-sort-colors](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0125-valid-palindrome) |
+| [0321-create-maximum-number](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0321-create-maximum-number) |
 | [0344-reverse-string](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0567-permutation-in-string) |
@@ -149,6 +151,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0011-container-with-most-water](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0680-valid-palindrome-ii) |
@@ -187,6 +190,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0227-basic-calculator-ii](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0321-create-maximum-number) |
 | [0394-decode-string](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0496-next-greater-element-i) |
@@ -209,6 +213,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0084-largest-rectangle-in-histogram](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0503-next-greater-element-ii) |
