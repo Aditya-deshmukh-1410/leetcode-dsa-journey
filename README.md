@@ -74,6 +74,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2574-left-and-right-sum-differences](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/2574-left-and-right-sum-differences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -319,6 +320,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0724-find-pivot-index](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/1004-max-consecutive-ones-iii) |
+| [2574-left-and-right-sum-differences](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/2574-left-and-right-sum-differences) |
 ## Queue
 |  |
 | ------- |
