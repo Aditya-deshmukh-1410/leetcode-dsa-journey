@@ -52,6 +52,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0349-intersection-of-two-arrays](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0410-split-array-largest-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0503-next-greater-element-ii) |
@@ -103,6 +104,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0179-largest-number](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0349-intersection-of-two-arrays) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/1552-magnetic-force-between-two-balls) |
 ## String
 |  |
@@ -285,6 +287,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0365-water-and-jug-problem](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0367-valid-perfect-square) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0523-continuous-subarray-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Binary Search
