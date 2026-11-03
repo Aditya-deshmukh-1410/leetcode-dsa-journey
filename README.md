@@ -77,6 +77,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2574-left-and-right-sum-differences](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/2574-left-and-right-sum-differences) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -290,6 +291,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0523-continuous-subarray-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
 |  |
 | ------- |
