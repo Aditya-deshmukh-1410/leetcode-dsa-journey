@@ -11,7 +11,6 @@ class Solution {
         for(int i = 0; i < nums.length; i++) {
             moves += max - nums[i];
         }
-
         return moves;
     }
 }
