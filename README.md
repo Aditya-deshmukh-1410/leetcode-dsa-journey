@@ -72,6 +72,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [1004-max-consecutive-ones-iii](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/1381-design-a-stack-with-increment-operation) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/1552-magnetic-force-between-two-balls) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -97,6 +98,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0647-palindromic-substrings](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0844-backspace-string-compare) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sorting
 |  |
 | ------- |
@@ -107,6 +109,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0242-valid-anagram](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/1552-magnetic-force-between-two-balls) |
 ## String
 |  |
@@ -314,6 +317,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0875-koko-eating-bananas](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/1552-magnetic-force-between-two-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/1870-minimum-speed-to-arrive-on-time) |
