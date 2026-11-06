@@ -80,6 +80,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2574-left-and-right-sum-differences](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/2574-left-and-right-sum-differences) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3838-weighted-word-mapping](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/3838-weighted-word-mapping) |
 ## Two Pointers
 |  |
 | ------- |
@@ -155,6 +156,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/3614-process-string-with-special-operations-ii) |
+| [3838-weighted-word-mapping](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/3838-weighted-word-mapping) |
 ## Greedy
 |  |
 | ------- |
@@ -368,6 +370,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0844-backspace-string-compare](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0844-backspace-string-compare) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/3614-process-string-with-special-operations-ii) |
+| [3838-weighted-word-mapping](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/3838-weighted-word-mapping) |
 ## Number Theory
 |  |
 | ------- |
