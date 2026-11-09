@@ -184,6 +184,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0118-pascals-triangle](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0152-maximum-product-subarray) |
 | [0279-perfect-squares](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0279-perfect-squares) |
+| [0343-integer-break](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0343-integer-break) |
 | [0410-split-array-largest-sum](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0410-split-array-largest-sum) |
 | [0647-palindromic-substrings](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0647-palindromic-substrings) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0918-maximum-sum-circular-subarray) |
@@ -292,6 +293,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0263-ugly-number](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0326-power-of-three) |
+| [0343-integer-break](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0343-integer-break) |
 | [0365-water-and-jug-problem](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0367-valid-perfect-square) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
