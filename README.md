@@ -155,6 +155,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [1544-make-the-string-great](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/1544-make-the-string-great) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3612-process-string-with-special-operations-i](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/3838-weighted-word-mapping) |
 ## Greedy
@@ -371,6 +372,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [0735-asteroid-collision](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/0844-backspace-string-compare) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [3612-process-string-with-special-operations-i](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/3838-weighted-word-mapping) |
 ## Number Theory
