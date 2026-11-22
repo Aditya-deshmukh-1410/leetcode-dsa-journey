@@ -153,6 +153,7 @@ Check out [`basic_logic_problems_100`](https://github.com/Aditya-deshmukh-1410/b
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1544-make-the-string-great](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/1544-make-the-string-great) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Aditya-deshmukh-1410/leetcode-dsa-journey/tree/master/3612-process-string-with-special-operations-i) |
